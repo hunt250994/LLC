@@ -1,0 +1,274 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 720px;
+	 height: 1018px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Rectangle1 
+{ 
+	 left: -1px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 722px;
+	 height: 1021px;
+	 z-index:1;
+} 
+
+ #VectorSmartObject 
+{ 
+	 left: 123px; 
+	 top: -57px; 
+	 position: absolute; 
+	 width: 868px;
+	 height: 1186px;
+	 z-index:2;
+} 
+
+ #VectorSmartObject_0 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 190px;
+	 height: 1018px;
+	 z-index:3;
+} 
+
+ #VectorSmartObject_1 
+{ 
+	 left: 634px; 
+	 top: 39px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 99px;
+	 z-index:4;
+} 
+
+ #CERTIFICATE 
+{ 
+	 left: 216px; 
+	 top: 73px; 
+	 position: absolute; 
+	 width: 325px;
+	 height: 33px;
+	 z-index:5;
+} 
+
+ #No910551 
+{ 
+	 left: 212px; 
+	 top: 124px; 
+	 position: absolute; 
+	 width: 109px;
+	 height: 15px;
+	 z-index:6;
+} 
+
+ #Thisistocertifythatt 
+{ 
+	 left: 211px; 
+	 top: 194px; 
+	 position: absolute; 
+	 width: 327px;
+	 height: 13px;
+	 z-index:7;
+} 
+
+ #MSIntegratedInformat 
+{ 
+	 left: 210px; 
+	 top: 260px; 
+	 position: absolute; 
+	 width: 351px;
+	 height: 80px;
+	 z-index:8;
+} 
+
+ #hasbeenassessedandfo 
+{ 
+	 left: 212px; 
+	 top: 409px; 
+	 position: absolute; 
+	 width: 396px;
+	 height: 13px;
+	 z-index:9;
+} 
+
+ #ISO90012015 
+{ 
+	 left: 212px; 
+	 top: 443px; 
+	 position: absolute; 
+	 width: 176px;
+	 height: 21px;
+	 z-index:10;
+} 
+
+ #applicableto 
+{ 
+	 left: 211px; 
+	 top: 495px; 
+	 position: absolute; 
+	 width: 78px;
+	 height: 13px;
+	 z-index:11;
+} 
+
+ #ProvidingInformation 
+{ 
+	 left: 211px; 
+	 top: 536px; 
+	 position: absolute; 
+	 width: 423px;
+	 height: 60px;
+	 z-index:12;
+} 
+
+ #EACode29 
+{ 
+	 left: 212px; 
+	 top: 620px; 
+	 position: absolute; 
+	 width: 74px;
+	 height: 10px;
+	 z-index:13;
+} 
+
+ #Thecertificatehasbee 
+{ 
+	 left: 211px; 
+	 top: 722px; 
+	 position: absolute; 
+	 width: 445px;
+	 height: 37px;
+	 z-index:14;
+} 
+
+ #ApprovedbyPrinted 
+{ 
+	 left: 211px; 
+	 top: 829px; 
+	 position: absolute; 
+	 width: 259px;
+	 height: 14px;
+	 z-index:15;
+} 
+
+ #Layer1 
+{ 
+	 left: 211px; 
+	 top: 855px; 
+	 position: absolute; 
+	 width: 202px;
+	 height: 84px;
+	 z-index:16;
+} 
+
+ #Layer2 
+{ 
+	 left: 509px; 
+	 top: 773px; 
+	 position: absolute; 
+	 width: 190px;
+	 height: 188px;
+	 z-index:17;
+} 
+
+ #LLCCertificationCzec 
+{ 
+	 left: 211px; 
+	 top: 987px; 
+	 position: absolute; 
+	 width: 437px;
+	 height: 14px;
+	 z-index:18;
+} 
+
+.company_name {
+            font-size: 20px;
+            font-family: "Arial";
+            color: rgb(35, 75, 149);
+            line-height: 1;
+            left: -215.951px;
+            top: 225.615px;
+            font-weight: 700;
+            width: 500px;
+        }
+
+        .company_address {
+            font-size: 15px;
+            font-family: "Arial";
+            color: rgb(35, 75, 149);
+            line-height: 1.2;
+            font-weight: 700;
+
+        }
+
+        .iso {
+            color: rgb(35, 75, 149);
+            font-size: 30px;
+            font-weight: 500;
+            width: 500px;
+        }
+
+        .ea_code {
+            color: rgba(2, 0, 0, 0.64);
+            font-size: 13px;
+            font-weight: 700;
+            width: 500px;
+        }
+
+        .certificate_num {
+            color: rgb(35, 75, 149);
+            font-size: 21px;
+            font-weight: 500;
+            letter-spacing: 0px;
+        }
+
+        .service {
+            color: rgb(0, 0, 0);
+            font-size: 15px;
+            font-weight: 800;
+        }
+        .certificate {
+    font-size: 14px;
+    color: #00000094;
+    font-weight: 600;
+}
+strong{
+	color: #000;
+	font-weight: 800;
+}
+body {
+    background: #BBC4CD;
+    margin-top: 0;
+    margin-left: 0;
+}
+.lbl{
+	font-family:Verdana; font-size: 18pt; color: #224188;
+}
+.lbl2{
+	font-family:Verdana; font-size: 7pt; color: #6E6F71;
+}
+h2.check-code {
+    width: 100%;
+    /* background: #000; */
+    text-align: center;
+    /* z-index: 999; */
+    position: absolute;
+    top: 199px;
+    left: -214px;
+    color: #224188;
+}
